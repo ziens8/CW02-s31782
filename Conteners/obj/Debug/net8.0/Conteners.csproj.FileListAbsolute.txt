@@ -1,0 +1,14 @@
+C:\Users\Zientek\RiderProjects\ConsoleApp1\Conteners\bin\Debug\net8.0\Conteners.exe
+C:\Users\Zientek\RiderProjects\ConsoleApp1\Conteners\bin\Debug\net8.0\Conteners.deps.json
+C:\Users\Zientek\RiderProjects\ConsoleApp1\Conteners\bin\Debug\net8.0\Conteners.runtimeconfig.json
+C:\Users\Zientek\RiderProjects\ConsoleApp1\Conteners\bin\Debug\net8.0\Conteners.dll
+C:\Users\Zientek\RiderProjects\ConsoleApp1\Conteners\bin\Debug\net8.0\Conteners.pdb
+C:\Users\Zientek\RiderProjects\ConsoleApp1\Conteners\obj\Debug\net8.0\Conteners.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zientek\RiderProjects\ConsoleApp1\Conteners\obj\Debug\net8.0\Conteners.AssemblyInfoInputs.cache
+C:\Users\Zientek\RiderProjects\ConsoleApp1\Conteners\obj\Debug\net8.0\Conteners.AssemblyInfo.cs
+C:\Users\Zientek\RiderProjects\ConsoleApp1\Conteners\obj\Debug\net8.0\Conteners.csproj.CoreCompileInputs.cache
+C:\Users\Zientek\RiderProjects\ConsoleApp1\Conteners\obj\Debug\net8.0\Conteners.dll
+C:\Users\Zientek\RiderProjects\ConsoleApp1\Conteners\obj\Debug\net8.0\refint\Conteners.dll
+C:\Users\Zientek\RiderProjects\ConsoleApp1\Conteners\obj\Debug\net8.0\Conteners.pdb
+C:\Users\Zientek\RiderProjects\ConsoleApp1\Conteners\obj\Debug\net8.0\Conteners.genruntimeconfig.cache
+C:\Users\Zientek\RiderProjects\ConsoleApp1\Conteners\obj\Debug\net8.0\ref\Conteners.dll
